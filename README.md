@@ -1,1 +1,10 @@
-# index
+# Proyecto de Prueba en GitHub
+
+Este repositorio se creó como práctica para aprender a usar **repositorios, ramas, commits, issues, forks y pull requests**.
+
+## Integrante
+- Nathaly de Jesús
+
+## Cambios realizados
+- Se creó un issue de prueba.
+- Se realizó un commit y un pull request.
