@@ -10,6 +10,8 @@ Este repositorio se creó como práctica para aprender a usar **repositorios, ra
 - Nathaly de Jesús Beltre 
 
 # Cambios realizados
+- Cree un proyecto en Visual Studio
+- Cree un repositorio en GitHub
 - Se creó un issue de prueba.
 - Se realizó un commit y un pull request.
 - Se implemento el uso de ramas y fork 
