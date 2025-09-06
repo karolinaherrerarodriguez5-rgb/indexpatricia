@@ -1,6 +1,6 @@
 
 # index
-#Hecho por Nathaly Beltre
+#Proyecto y repositprio creado por Nathaly De Jesus Beltre 
 
 # Proyecto de Prueba en GitHub
 
